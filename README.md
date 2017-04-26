@@ -21,13 +21,13 @@ Moj pristup:
 
 Fifa World Ranking:
 
-Začínam s 177 tímami (v roku 2015 nahrali aspoň 1 bod) každý začína s 0 bodmi, tabuľka je usporiadaná podľa počtu bodov získaných v roku 2014 a postupne získavajú body podľa tejto formuly:
+Začínam s 190 tímami (v roku 2015 nahrali aspoň 1 bod) každý začína s 0 bodmi, tabuľka je usporiadaná podľa počtu bodov získaných v roku 2014 a postupne získavajú body podľa tejto formuly:
  
 Body = V (Body za vysledok zapasu) * S (Sila protivnika)
 
 V: Tím získa 3 body za výhru, 1 za remízu, 0 za prehru.
 
-S: S=200 - (pozícia súpera v tabuľke).
+S: S=191 - (pozícia súpera v tabuľke).
 
 Tiež sa počítajú body z posledných štyroch rokov so zníženou váhou a to takto:
 * Pred 3 rokmi: 20%
@@ -39,4 +39,5 @@ Simulátor zápasov:
 
 Funguje na princípe náhodného čísla s väčsou pravdepodobnosťou pre silnejší tým.
 
-Vráti náhodné číslo z intervalu 0 - 176, vyhráva tým, ktorého pozícia je bližšie k tomuto číslu. Ak sú rovnako blízko vyhráva silnejší tým. Ak sú tými na rovnakej pozícii tak vyhráva domáci tým (prvý menovaný).
+Vráti náhodné číslo z intervalu 0 - 189, vyhráva tým, ktorého pozícia je bližšie k tomuto číslu. Ak sú rovnako vzdialené vyhráva silnejší tým. Ak sú tými na rovnakej pozícii tak vyhráva domáci tým (prvý menovaný).
+
