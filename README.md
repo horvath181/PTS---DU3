@@ -39,5 +39,5 @@ Simulátor zápasov:
 
 Funguje na princípe náhodného čísla s väčsou pravdepodobnosťou pre silnejší tým.
 
-Vráti náhodné číslo z intervalu 0 - 189, vyhráva tým, ktorého pozícia je bližšie k tomuto číslu. Ak sú rovnako vzdialené vyhráva silnejší tým. Ak sú tými na rovnakej pozícii tak vyhráva domáci tým (prvý menovaný).
+Vráti náhodné číslo z intervalu (0 - 189) + 1 , vyhráva tým, ktorého pozícia je bližšie k tomuto číslu. Ak sú rovnako vzdialené vyhráva silnejší tým. Ak sú tými na rovnakej pozícii tak vyhráva domáci tým (prvý menovaný).
 
