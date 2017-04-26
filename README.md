@@ -29,11 +29,11 @@ V: Tím získa 3 body za výhru, 1 za remízu, 0 za prehru.
 
 S: S=191 - (pozícia súpera v tabuľke).
 
-Tiež sa počítajú body z posledných štyroch rokov so zníženou váhou a to takto:
+Do celkového počtu bodov sa počítajú body z posledných štyroch rokov so zníženou váhou a to takto:
 * Pred 3 rokmi: 20%
 * Pred 2 rokmi: 30%
 * Minulý rok: 50%
-* Aktuálny rok: 100%
+* Tento rok: 100%
 
 Simulátor zápasov:
 
