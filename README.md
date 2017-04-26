@@ -18,3 +18,23 @@ Pre všeobecný prehľad ako prebieha kvalifikácia na MS vo futbale si pozrite 
 Ak vám niečo v zadaní chýba, alebo sa vám niečo veľmi nepáči, kľudom si ho obmeňte.
 
 Moj pristup:
+
+Fifa World Ranking:
+
+Začínam s 177 tímami (v roku 2015 nahrali aspoň 1 bod) každý začína s 0 bodmi, tabuľka je usporiadaná podľa počtu bodov získaných v roku 2014 a postupne získavajú body podľa tejto formuly:
+ 
+Body = V (Body za vysledok zapasu) * S (Sila protivnika)
+
+V: Tím získa 3 body za výhru, 1 za remízu, 0 za prehru.
+
+S: S=200 - (pozícia súpera v tabuľke).
+
+Tiež sa počítajú body z posledných štyroch rokov so zníženou váhou a to takto:
+* Pred 3 rokmi: 20%
+* Pred 2 rokmi: 30%
+* Minulý rok: 50%
+* Aktuálny rok: 100%
+
+Simulátor zápasov:
+
+Funguje na princípe náhodného čísla s väčsou pravdepodobnosťou pre silnejší tým.
